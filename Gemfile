@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'rspec'
+gem 'coveralls', require: false
 
 group :development do
   gem 'guard', '~> 2.10.5'

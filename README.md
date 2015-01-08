@@ -1,6 +1,8 @@
 # HaloService
 
-TODO: Write a gem description
+The first my gem
+
+[![Coverage Status](https://coveralls.io/repos/tungpt247/halo_service/badge.png)](https://coveralls.io/r/tungpt247/halo_service)
 
 ## Installation
 
